@@ -31,7 +31,7 @@
 }
 
 #repositories {
-    background-image: url("voidweaver.github.io/resources/code.jpg");
+    background-image: url("/resources/code.jpg");
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@
 }
 
 #cpp {
-    background-image: url("voidweaver.github.io/resources/cpp.png");
+    background-image: url("/resources/cpp.png");
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -55,7 +55,7 @@
 }
 
 #java {
-    background-image: url("voidweaver.github.io/resources/java.html.png");
+    background-image: url("/resources/java.html.png");
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@
 }
 
 #python {
-    background-image: url("voidweaver.github.io/resources/python.html.png");
+    background-image: url("/resources/python.html.png");
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
