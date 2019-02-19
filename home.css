@@ -55,7 +55,7 @@
 }
 
 #java {
-    background-image: url("/resources/java.html.png");
+    background-image: url("/resources/java.png");
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
@@ -67,7 +67,7 @@
 }
 
 #python {
-    background-image: url("/resources/python.html.png");
+    background-image: url("/resources/python.png");
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: overlay;
     background-repeat: no-repeat;
